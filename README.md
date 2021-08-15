@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryadubey14
+- 👋 Hi, I’m Arya Dubey
 - 👀 I’m interested in coding ,UI/UX design and web development
 - 🌱 I’m currently learning Machine Learning and Data Structures
 - 💞️ I’m looking to collaborate on innovative projects and hackathons.

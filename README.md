@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Competitive Coding ,DSA and Backend**
 
 - 👯 I’m looking to collaborate on **exciting projects and hackathons**
-- 💖 Checkout my LinkedIn profile <a href="www.linkedin.com/in/arya-dubey-212ba21b8">here</a>.
+- 💖 Checkout my LinkedIn profile <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">here</a>.
 
 - ⚡ Fun fact **I work better under pressure.**
 - 📚 I love reading books with a mug of hot chocolate
